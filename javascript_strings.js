@@ -47,3 +47,5 @@ function print(template, ...args) {
 const result = print("Сегодня %1 %4.%3.%2", "Воскресенье", 6, 10, 2024);
 // const result = print("Сегодня %1 %2.%3.%4", "Воскресенье", 6, 10, 2024);
 console.log(result);
+
+//Тестовое обновление для git
